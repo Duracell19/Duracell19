@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Senior software engineer with more than 5 and half years in IT.
+- 👀 I’m interested in Cross-Platform mobile development and Backend stuff.
+- 🌱 I’m learning Artificial Intelligence.
+- ✨ Please, follow me https://www.linkedin.com/in/alexandra-letun-2b1224162. 💖
