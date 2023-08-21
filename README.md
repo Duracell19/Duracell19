@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Senior software engineer with more than 5 and half years in IT.
-- 👀 I’m interested in Cross-Platform mobile development and Backend stuff.
-- 🌱 I’m learning Artificial Intelligence.
+- 👋 Hi, I’m Senior Full-Stack Software Engineer with more than 6 years in software development.
+- 👀 I develop Cross-Platform mobile application and Backend services.
+- 🌱 I'm interested in resolving algoritmic tasks on LeetCode and read articles dedicated to Artificial Intelligence.
 - ✨ Please, follow me https://www.linkedin.com/in/alexandra-letun-2b1224162. 💖
