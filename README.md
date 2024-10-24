@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Senior Full-Stack Software Engineer with more than 7 years in software development.
+- 👋 Hi, I’m Senior Full-Stack Software Engineer with more than 8 years in software development.
 - 👀 I develop Cross-Platform mobile application and large-scalable Backend services.
 - 🌱 I'm interested in resolving algoritmic tasks on LeetCode and read articles dedicated to Artificial Intelligence.
 - ✨ Please, follow me https://www.linkedin.com/in/alexandra-letun-2b1224162. 💖
