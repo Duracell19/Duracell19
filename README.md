@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Senior Full-Stack Software Engineer with more than 8 years in software development.
-- 👀 I develop Cross-Platform mobile application and large-scalable Backend services.
-- 🌱 I'm interested in resolving algoritmic tasks on LeetCode and read articles dedicated to Artificial Intelligence.
-- ✨ Please, follow me https://www.linkedin.com/in/alexandra-letun-2b1224162. 💖
+👋 Hi, I’m a Senior Full-Stack Software Engineer with more than 8 years of experience in software development.
+👀 I specialize in developing cross-platform mobile applications and large-scale backend services.
+🌱 I'm interested in solving algorithmic tasks on LeetCode.
+💻 Passionate about exploring Artificial Intelligence solutions.
+🧬 Currently diving deep into Quantum Programming.
